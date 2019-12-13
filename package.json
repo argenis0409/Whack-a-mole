@@ -1,0 +1,23 @@
+{
+  "name": "whack-a-mole",
+  "version": "1.0.0",
+  "description": "Whack a mole",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/Whack-a-mole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/Whack-a-mole/issues"
+  },
+  "homepage": "https://github.com/argenis0409/Whack-a-mole#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
